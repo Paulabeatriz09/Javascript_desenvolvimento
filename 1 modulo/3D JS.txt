@@ -1,0 +1,13 @@
+//Cite três exemplos de dados utilizados no seu cotidiano (exemplo: termômetro) e pesquise três outros exemplos em que dados na internet são usados (exemplo: criação de um usuário em rede social digital).
+
+ Dados do cotidiano: 
+*Resultado de uma pesquisa; 
+*Manômetro
+*Placa de carro
+
+
+Dados da internet:
+*CPF
+*Saldo Bancário
+*Data de nascimento
+
