@@ -1,0 +1,4 @@
+
+Padrões de projetos podem ser definidos como boas práticas na área de linguagens de Programação orientada a objetos, que alcançam sucesso devido a possibilidade da solução ser utilizada diversas vezes. Dentro da vertente dos 3 tipos principais criados, o tipo estrutural chama a atenção devido a oportunidade de aumentar a funcionalidade das classes envolvidas sem alterar muito sua constituição.
+O padrão de projetos Decorator está na categoria estrutural de uma classe, seja por herança, composição ou ambos. O objetivo desse padrão é modificar a funcionalidade de um objeto em tempo de execução. Esse é um dos vários padrões de projetos que usam classes abstratas e interfaces com composição para obter o resultado desejado.
+
