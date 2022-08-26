@@ -5,6 +5,7 @@
 function vazia(){
     return ("Olá");
 }
+console.log(vazia());
 
 // 2. uma função tradicional com parâmetros e um retorno de valor;
 function soma(a,b){
