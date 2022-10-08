@@ -15,7 +15,7 @@ console.log(soma(2,2));
 // 3. uma arrow function com parâmetros e que retorne um valor.
 const som=(a,b)=>a+b;
 
-console.log(com(1,1));
+console.log(som(1,1));
 
 
 
