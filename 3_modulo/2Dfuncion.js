@@ -3,8 +3,9 @@
 
 // 1. uma função tradicional com a palavra reservada “Function” e sem nenhum parâmetro;
 function vazia(){
-
+    return ("Olá");
 }
+console.log(vazia());
 
 // 2. uma função tradicional com parâmetros e um retorno de valor;
 function soma(a,b){
